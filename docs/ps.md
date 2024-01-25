@@ -21,6 +21,6 @@ root                 1   3.4  0.2 408831040  13152   ??  Rs   21Dec23 424:48.13 
 
 
 
-
+`ps` provides information about the currently running processes, including their PIDs. You can use ps with various options (-aux for example) to see CPU usage. The %CPU column shows the CPU usage.
 
 
